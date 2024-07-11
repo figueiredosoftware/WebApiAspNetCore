@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MinhaApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MinhaApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T20:19:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinhaApi",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\MinhaApi.csproj",
+              "RelativeDocumentMoniker": "MinhaApi\\MinhaApi.csproj",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\MinhaApi.csproj",
+              "RelativeToolTip": "MinhaApi\\MinhaApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T20:19:10.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
