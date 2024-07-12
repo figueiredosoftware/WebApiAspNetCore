@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BBFFCD6-A27D-4E71-A350-CEBEB2D4B489}|MinhaApi\\MinhaApi.csproj|c:\\alessandro\\fontes\\cursos\\webapiaspnetcore\\minhaapi\\minhaapi\\minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -27,28 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\WeatherForecast.cs",
+              "RelativeToolTip": "MinhaApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:00:55.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MinhaApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:45:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MinhaApi\\appsettings.json",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\appsettings.json",
+              "RelativeToolTip": "MinhaApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T14:03:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Program.cs",
+              "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Program.cs",
+              "RelativeToolTip": "MinhaApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:09:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MinhaApi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "MinhaApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-10T20:19:22.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MinhaApi",
+              "DocumentIndex": 5,
+              "Title": "MinhaApi.csproj",
               "DocumentMoniker": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\MinhaApi.csproj",
               "RelativeDocumentMoniker": "MinhaApi\\MinhaApi.csproj",
               "ToolTip": "C:\\Alessandro\\Fontes\\Cursos\\WebApiAspNetCore\\MinhaApi\\MinhaApi\\MinhaApi.csproj",
               "RelativeToolTip": "MinhaApi\\MinhaApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-10T20:19:10.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T20:19:10.906Z"
             }
           ]
         }
